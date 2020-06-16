@@ -15,3 +15,4 @@ test_that("give_candygrams works", {
 
   expect_equal(my_result, correct_result)
 })
+

@@ -32,9 +32,8 @@ give_candygrams <- function(person, number,
 
   glue::glue("{number} for {person}.")
 
-
-
 }
+
 
 #' Tacks commentary on to candygram announcement
 #'
